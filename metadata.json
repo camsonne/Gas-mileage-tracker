@@ -1,0 +1,7 @@
+{
+  "name": "Gas Mileage Tracker",
+  "description": "An application to track and compute your vehicle's gas mileage (MPG). It logs your trips, visualizes your fuel efficiency over time, and provides AI-powered tips to improve your mileage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
